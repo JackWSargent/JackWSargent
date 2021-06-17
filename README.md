@@ -34,6 +34,8 @@ I am a Next.js, React, NodeJS, and AWS Developer with over one year of professio
 | [AWS] | 7 | 1 |
 | [Heroku] | 4 | 0.5 |
 | [SCRUM] | 8 | 1 |
+| SQL | 4 | 1 |
+| [Twilio] | 6 | 1 |
 
 ## License
 
@@ -57,3 +59,4 @@ MIT
    [Scrum]: <https://www.scrum.org/>
    [JavaScript]: <https://www.javascript.com/>
    [TypeScript]: <https://www.typescriptlang.org/>
+   [Twilio]: <https://www.twilio.com/>
