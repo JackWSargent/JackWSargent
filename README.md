@@ -19,12 +19,12 @@ I am a Next.js, React, NodeJS, and AWS Developer with over one year of professio
 
 | Skill | Rating (out of 10) | Years Used |
 | ------ | ------ | ----- |
-| [JavaScript] | 8 | 2 |
-| [Typescript] | 7 | 1 |
+| [JavaScript] | 7 | 2 |
+| [Typescript] | 6 | 1 |
 | [React.js] | 8 | 2 |
-| [Node.js] | 7 | 2|
-| [Next.js] | 7 | 1 |
-| [Express] | 8 | 2 |
+| [Node.js] | 6 | 2|
+| [Next.js] | 6 | 1 |
+| [Express] | 7 | 2 |
 | [Stripe] | 7 | 1 |
 | [Git] | 9 | 2 |
 | [Sequelize] | 7 | 1 |
