@@ -2,7 +2,7 @@
 ## Full-Stack Developer 
 ## [LinkedIn Profile]
 
-I am a Next.js, React, NodeJS, Java, C# and AWS Developer with over one year of professional experience and has lead a team of up to 6 on a project. 
+I am a Next.js, React, NodeJS, Java, C# and AWS Developer. 
 
 ## Current Skills
 
