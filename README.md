@@ -2,12 +2,7 @@
 ## Full-Stack Developer 
 ## [LinkedIn Profile]
 
-I am a Next.js, React, NodeJS, and AWS Developer with over one year of professional experience and has lead a team of up to 6 on a project. 
-
-## Current Objective 6/16/2021
-- Get new developer role (Front-End w/React, Back-End w/NodeJS, or Full-Stack) 
-- Finish course on UX Design by Google 
-- Building business plans and skills for the future
+I am a Next.js, React, NodeJS, Java, C# and AWS Developer with over one year of professional experience and has lead a team of up to 6 on a project. 
 
 ## Examples of Work
 
