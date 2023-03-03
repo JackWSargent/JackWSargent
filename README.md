@@ -7,7 +7,7 @@ I am a Next.js, React, NodeJS, Java, C# and AWS Developer.
 ## Current Skills
 
 
-| Skill | Rating (out of 10) | Years Used |
+<!-- | Skill | Rating (out of 10) | Years Used |
 | ------ | ------ | ----- |
 | [JavaScript] | 7 | 2 |
 | [Typescript] | 6 | 1 |
@@ -25,28 +25,5 @@ I am a Next.js, React, NodeJS, Java, C# and AWS Developer.
 | [Heroku] | 4 | 0.5 |
 | [SCRUM] | 8 | 1 |
 | SQL | 4 | 1 |
-| [Twilio] | 6 | 1 |
+| [Twilio] | 6 | 1 | -->
 
-## License
-
-MIT
-
-   [FPVExchange]: <https://fpvexchange.com>
-   [QuantCity]: <https://quantcity.com>
-   [React.js]: <https://reactjs.org/>
-   [Node.js]: <http://nodejs.org>
-   [LinkedIn Profile]: <https://linkedin.com/in/sargentjack/>
-   [Git]: <https://github.com/JackWSargent/>
-   [Express]: <http://expressjs.com>
-   [Next.js]: <https://nextjs.org/>
-   [Stripe]: <https://stripe.com/>
-   [Sequelize]: <https://sequelize.org/>
-   [Postgresql]: <https://www.postgresql.org/>
-   [MongoDB]: <https://mongodb.com/>
-   [GraphQL]: <https://graphql.org/>
-   [AWS]: <https://aws.amazon.com/>
-   [Heroku]: <https://www.heroku.com/>
-   [Scrum]: <https://www.scrum.org/>
-   [JavaScript]: <https://www.javascript.com/>
-   [TypeScript]: <https://www.typescriptlang.org/>
-   [Twilio]: <https://www.twilio.com/>
